@@ -1,4 +1,4 @@
 # Demo
 
 This my demo example project
-This is awesome
+This is awesome!
